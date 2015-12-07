@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyDialogFragmentTutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_showDialog">Show Dialog</string>
+
+    <string-array name="left_string_array">
+        <item>Field 1</item>
+        <item>Field 2</item>
+        <item>Field 3</item>
+        <item>Field 4</item>
+        <item>Field 5</item>
+        <item>Field 6</item>
+        <item>Field 7</item>
+        <item>Field 8</item>
+        <item>Field 9</item>
+        <item>Field 10</item>
+    </string-array>
+
+    <string-array name="right_string_array">
+        <item>Right Field 1</item>
+        <item>Right Field 2</item>
+        <item>Right Field 3</item>
+        <item>Right Field 4</item>
+        <item>Right Field 5</item>
+        <item>Right Field 6</item>
+        <item>Right Field 7</item>
+        <item>Right Field 8</item>
+        <item>Right Field 9</item>
+        <item>Right Field 10</item>
+    </string-array>
+</resources>
